@@ -40,5 +40,4 @@ I am a 2nd year software engineering student. Apart from that I am an Aspiring M
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=black" />](t.me/RezaH77)
 </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EryX0&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EryX0&layout=compact&theme=buefy&hide_border=true" /></a>
