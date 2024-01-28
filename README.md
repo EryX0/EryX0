@@ -1,6 +1,6 @@
 # Hi There
 
-I am a 2nd-year software engineering student. Apart from that I am an Aspiring DevOps engineer.
+I am a 3rd-year software engineering student. I am also an Aspiring DevOps engineer.
 
 **My Research Interest**:
 
