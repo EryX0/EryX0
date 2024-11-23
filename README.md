@@ -1,6 +1,6 @@
 # Hi There
 
-I am a 3rd-year software engineering student, also an Aspiring DevOps engineer.
+I am a DevOps Engineer, Also a Computer Engineering undergrad.
 
 **My Research Interest**:
 
